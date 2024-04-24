@@ -17,3 +17,7 @@
 ### [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array)
 
 [TypeScript](./TypeScript/solutions/merge-sorted-array.ts)
+
+### [169. Majority Element](https://leetcode.com/problems/majority-element)
+
+[TypeScript](./TypeScript/solutions/majority-element.ts)
