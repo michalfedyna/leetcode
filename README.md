@@ -21,3 +21,7 @@
 ### [169. Majority Element](https://leetcode.com/problems/majority-element)
 
 [TypeScript](./TypeScript/solutions/majority-element.ts)
+
+### [189. Rotate Array](https://leetcode.com/problems/rotate-array)
+
+[TypeScript](./TypeScript/solutions/rotate-array.ts)
